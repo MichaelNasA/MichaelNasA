@@ -1,4 +1,4 @@
-<h1>Hi there 👋 My name is Michael Adamson. I am a Front End Developer</h1>
+<h1>Hi there 👋 My name is Michael. I am a Front End Developer</h1>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -7,9 +7,12 @@
 
 <h3>- 🔭 I’m currently working on a website that talks about how anime influence hip hop music</h3>
 
-<h3>-  💬 Ask me about ... honestly anythig I like to talk</h3>
+<h3>-  💬 Ask me about Black Clover </h3>
 
-<h3>-  ⚡ Fun fact: Anime got me to workout</h3>
+<h3>-  ⚡ Fun fact: Anime got me to workou</h3>
+
+<h2>📫 Reach me on</h2>
+ <a target="_blank"href="https://www.linkedin.com/in/michaelnjadamson/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <!--
 **MichaelNasA/MichaelNasA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
