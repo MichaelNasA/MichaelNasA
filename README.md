@@ -9,7 +9,7 @@
 
 <h3>-  💬 Ask me about Black Clover </h3>
 
-<h3>-  ⚡ Fun fact: Anime got me to workou</h3>
+<h3>-  ⚡ Fun fact: I enjoy muay thai and skateboarding </h3>
 
 <h2>📫 Reach me on</h2>
  <a target="_blank"href="https://www.linkedin.com/in/michaelnjadamson/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
